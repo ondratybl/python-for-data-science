@@ -1,0 +1,7 @@
+# Assignment notebooks (kept locally, not tracked)
+assignment*.ipynb
+
+# macOS / IDE
+.DS_Store
+.idea/
+.venv/
