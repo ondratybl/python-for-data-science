@@ -1,5 +1,10 @@
 # Python for Data Science – NMFP451
 
+> ## ⚠️ Before the first practical
+>
+> - **Bring your own laptop.** All practicals are hands-on — you will work on your own computer, so you need to bring one to every session.
+> - **Install PyCharm.** Do [**step 1) Install PyCharm**](#1-install-pycharm) only — nothing else. **You do not need to** do steps 2–7 in advance; we will go through all of them together during the first practical.
+
 Course info and materials.
 
 Practicals: Ondřej Týbl, Filip Bočinec ([surname]@karlin.mff.cuni.cz)
@@ -9,15 +14,14 @@ Time: Monday 12:20
 Room: K4
 
 ## Plan
-| Date       | Topic                          | Homework Assignment                                                                       | Homework Deadline[^1] | Lecturer |
-|------------|--------------------------------|-------------------------------------------------------------------------------------------|------------------|----------|
-| 29.09.2025 | introduction                   | [click](https://github.com/ondratybl/python-for-data-science/blob/main/assignment1.ipynb) | 15.10.2025           | Filip   |
-| 13.10.2025 | numpy                          | [click](https://github.com/ondratybl/python-for-data-science/blob/main/assignment2.ipynb) | 20.10.2025           | Filip   |
-| <span style="color:red;">~~27.10.2025~~</span> 03.11.2025 | pandas                         | [click](https://github.com/ondratybl/python-for-data-science/blob/main/assignment3.ipynb) | <span style="color:red;">~~03.11.2025~~</span> 10.11.2025           | Ondřej   |
-| 10.11.2025 | sql                            | [click](https://github.com/ondratybl/python-for-data-science/blob/main/assignment4.ipynb) | 17.11.2025           | Ondřej   |
-| 24.11.2025 | matplotlib                     | [click](https://github.com/ondratybl/python-for-data-science/blob/main/assignment5.ipynb) | 01.12.2025           | Ondřej   |
-| 08.12.2025 | scikit-learn                   | [click](https://github.com/ondratybl/python-for-data-science/blob/main/assignment6.ipynb) | 15.12.2025           | Filip   |
-| 05.01.2026 | Object-oriented programming    | [click](https://github.com/ondratybl/python-for-data-science/blob/main/assignment7.ipynb)                                                                                    | 12.01.2026           | Ondřej   |
+| Date       | Topic | Homework Assignment | Homework Deadline[^1] | Lecturer |
+|------------|-------|---------------------|-----------------------|----------|
+| 05.10.2026 | TBA   | TBA                 | TBA                   | TBA      |
+| 19.10.2026 | TBA   | TBA                 | TBA                   | TBA      |
+| 02.11.2026 | TBA   | TBA                 | TBA                   | TBA      |
+| 16.11.2026 | TBA   | TBA                 | TBA                   | TBA      |
+| 30.11.2026 | TBA   | TBA                 | TBA                   | TBA      |
+| 14.12.2026 | TBA   | TBA                 | TBA                   | TBA      |
 
 [^1]: All homework deadlines are due at **23:59** on the specified date.
 
@@ -30,7 +34,7 @@ Room: K4
 
 Several homework assignments will be given. You are required to submit a solution for each assignment by the respective deadline. Your code will be evaluated based on readability, efficiency, correctness, and whether it runs successfully.
 
-After each deadline, we check your GitHub repositories and evaluate your solutions as `passed`, `revision` or `failed`. You need all the solutions to be marked as `passed` by `the end of January 2026` to obtain the course credits. If marked as `revision`, you can resubmit your improved solution to obtain `passed` (no submissions after `the end of January 2026`). Your results (under your UKČO) can be found [here](https://github.com/ondratybl/python-for-data-science/blob/main/HW_results.md).
+After each deadline, we check your GitHub repositories and evaluate your solutions as `passed`, `revision` or `failed`. You need all the solutions to be marked as `passed` by `the end of January 2027` to obtain the course credits. If marked as `revision`, you can resubmit your improved solution to obtain `passed` (no submissions after `the end of January 2027`). In addition, up to **two** submissions marked as `failed` — this includes assignments not submitted at all — can also be resubmitted to obtain `passed`, subject to the same deadline. Your results (under your UKČO) can be found [here](https://github.com/ondratybl/python-for-data-science/blob/main/HW_results.md).
 
 ## Use of Large Language Models
 
@@ -62,6 +66,8 @@ In our course, we will learn how to use a whole bunch of tools and technologies 
 Below, a detailed instructions on how to set everything up is provided.
 
 # Setup Instructions
+
+> **Coming to the first practical?** Do **step 1 only**. Steps 2–7 are done together in class — no need to prepare them.
 
 ### 1) Install PyCharm
 
