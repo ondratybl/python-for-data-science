@@ -1,5 +1,6 @@
 # Assignment notebooks (kept locally, not tracked)
 assignment*.ipynb
+!assignment1.ipynb
 
 # macOS / IDE
 .DS_Store

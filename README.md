@@ -16,7 +16,7 @@ Room: K4
 ## Plan
 | Date       | Topic | Homework Assignment | Homework Deadline[^1] | Lecturer |
 |------------|-------|---------------------|-----------------------|----------|
-| 05.10.2026 | TBA   | TBA                 | TBA                   | TBA      |
+| 05.10.2026 | TBA   | [click](https://github.com/ondratybl/python-for-data-science/blob/main/assignment1.ipynb) | 18.10.2026 | TBA      |
 | 19.10.2026 | TBA   | TBA                 | TBA                   | TBA      |
 | 02.11.2026 | TBA   | TBA                 | TBA                   | TBA      |
 | 16.11.2026 | TBA   | TBA                 | TBA                   | TBA      |
