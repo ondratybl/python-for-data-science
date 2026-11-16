@@ -16,10 +16,10 @@ Room: K4
 ## Plan
 | Date       | Topic                       | Homework Assignment                                                                                                                                                            | Homework Deadline[^1] | Lecturer |
 |------------|-----------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------|----------|
-| 05.10.2026 | Setup & Numpy               | [HW1](https://github.com/ondratybl/python-for-data-science/blob/main/assignment1.ipynb) [HW2](https://github.com/ondratybl/python-for-data-science/blob/main/assignment2.ipynb) | 18.10.2026            | Filip    |
-| 19.10.2026 | Pandas | [HW3](https://github.com/ondratybl/python-for-data-science/blob/main/assignment3.ipynb) | 1.11.2026             | Ondrej   |
-| 02.11.2026 | databases                         |  [HW4](https://github.com/ondratybl/python-for-data-science/blob/main/assignment4.ipynb)                                                                                                                                                                            | 15.11.2026                   | Ondrej      |
-| 16.11.2026 | TBA                         | TBA                                                                                                                                                                            | TBA                   | TBA      |
+| 05.10.2026 | Setup & Numpy | [HW1](https://github.com/ondratybl/python-for-data-science/blob/main/assignment1.ipynb) [HW2](https://github.com/ondratybl/python-for-data-science/blob/main/assignment2.ipynb) | 18.10.2026 | Filip |
+| 19.10.2026 | Pandas | [HW3](https://github.com/ondratybl/python-for-data-science/blob/main/assignment3.ipynb) | 1.11.2026 | Ondrej |
+| 02.11.2026 | databases |  [HW4](https://github.com/ondratybl/python-for-data-science/blob/main/assignment4.ipynb) | 15.11.2026  | Ondrej |
+| 16.11.2026 | sklearn | [HW5](https://github.com/ondratybl/python-for-data-science/blob/main/assignment5.ipynb) | 29.11.2026 | Filip |
 | 30.11.2026 | TBA                         | TBA                                                                                                                                                                            | TBA                   | TBA      |
 | 14.12.2026 | TBA                         | TBA                                                                                                                                                                            | TBA                   | TBA      |
 
